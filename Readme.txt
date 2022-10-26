@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+Thanks for Using this template!
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template Name: Personal Profile
+Template URL: http://nitheshwaran.000webhostapp.com/
+Author: Nitheshwaran T
